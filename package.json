@@ -1,0 +1,10 @@
+{
+  "name": "kuro-react-workspace",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix ./kuro-react run dev -- --host 0.0.0.0",
+    "build": "npm --prefix ./kuro-react run build",
+    "preview": "npm --prefix ./kuro-react run preview -- --host 0.0.0.0"
+  }
+}
