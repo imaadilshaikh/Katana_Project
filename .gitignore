@@ -1,0 +1,14 @@
+node_modules/
+kuro-react/node_modules/
+kuro-react/dist/
+dist/
+build/
+.DS_Store
+*.log
+.vite/
+.cache/
+package-lock.json
+npm-debug.log*
+.env
+.env.*
+!.env.example
